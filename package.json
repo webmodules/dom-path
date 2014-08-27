@@ -1,0 +1,28 @@
+{
+  "name": "dom-path",
+  "version": "1.0.0",
+  "description": "Path api for dom nodes",
+  "main": "index.js",
+  "scripts": {
+    "prepublish": "tsc --module commonjs --declaration index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/webmodules/dom-path.git"
+  },
+  "keywords": [
+    "node",
+    "dom",
+    "path",
+    "browser",
+    "element",
+    "html"
+  ],
+  "author": "Marco Aurelio",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/webmodules/dom-path/issues"
+  },
+  "homepage": "https://github.com/webmodules/dom-path"
+}
